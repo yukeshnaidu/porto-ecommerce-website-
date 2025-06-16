@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 30 May 2025 13:17:55 at https://portotheme.com/html/porto_ecommerce/demo39.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://portotheme.com/html/porto_ecommerce/demo39.html -O1 "C:\My Web Sites\ecommerce" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:21:06	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/assets/images/owl.video.play.png (from https://portotheme.com/html/porto_ecommerce/assets/css/demo39.min.css)
+13:21:19	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/ajax/assets/images/products/zoom/product-1-big.jpg (from https://portotheme.com/html/porto_ecommerce/ajax/product-quick-view.html)
+13:21:19	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/ajax/assets/images/products/zoom/product-2-big.jpg (from https://portotheme.com/html/porto_ecommerce/ajax/product-quick-view.html)
+13:21:19	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/ajax/assets/images/products/zoom/product-3-big.jpg (from https://portotheme.com/html/porto_ecommerce/ajax/product-quick-view.html)
+13:21:19	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/ajax/assets/images/products/zoom/product-4-big.jpg (from https://portotheme.com/html/porto_ecommerce/ajax/product-quick-view.html)
+13:21:19	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/ajax/assets/images/products/zoom/product-5-big.jpg (from https://portotheme.com/html/porto_ecommerce/ajax/product-quick-view.html)
+13:21:19	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/ajax/assets/images/products/zoom/product-1.jpg (from https://portotheme.com/html/porto_ecommerce/ajax/product-quick-view.html)
+13:21:19	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/ajax/assets/images/products/zoom/product-2.jpg (from https://portotheme.com/html/porto_ecommerce/ajax/product-quick-view.html)
+13:21:19	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/ajax/assets/images/products/zoom/product-3.jpg (from https://portotheme.com/html/porto_ecommerce/ajax/product-quick-view.html)
+13:21:19	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/ajax/assets/images/products/zoom/product-4.jpg (from https://portotheme.com/html/porto_ecommerce/ajax/product-quick-view.html)
+13:21:19	Error: 	"Not Found" (404) at link https://www.portotheme.com/html/porto_ecommerce/ajax/assets/images/products/zoom/product-5.jpg (from https://portotheme.com/html/porto_ecommerce/ajax/product-quick-view.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 44 seconds : 389 links scanned, 377 files written (14713053 bytes overall) [6891401 bytes received at 30765 bytes/sec], 12250666 bytes transferred using HTTP compression in 119 files, ratio 22%, 65.7 requests per connection
+(11 errors, 0 warnings, 0 messages)
